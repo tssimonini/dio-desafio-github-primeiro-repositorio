@@ -6,6 +6,5 @@ Desafio de Projeto sobre Git/GitHub
 
 [Sintaxe Básica Markdown - en-us](https://markdownguide.org/basic-syntax/)
 
-## Código das Línguas
-[Abreviação de Localização](https://www.alphatrad.pt/o-codigo-das-linguas)
+[Abreviação de Localização - Código das Línguas](https://www.alphatrad.pt/o-codigo-das-linguas)
 
